@@ -1,0 +1,11 @@
+date,news,ticker,region,exchange
+2024-01-15,"Company announces Q4 net profit of Rs 500 crore, beating estimates by 25%",COMP,India,NSE
+2024-01-16,"CEO attends annual industry conference in Mumbai",COMP,India,NSE
+2024-01-17,"Board recommends final dividend of Rs 10 per share",COMP,India,BSE
+2024-01-18,"XYZ Ltd announces acquisition of ABC Corp for $500 million",XYZ,US,NYSE
+2024-01-19,"Company sponsors local charity marathon",XYZ,US,NYSE
+2024-01-20,"Quarterly results: Revenue up 30% YoY, EPS beats by $0.15",TECH,US,NASDAQ
+2024-01-21,"Company issues profit warning, expects H1 profits 20% below guidance",UK_CO,UK,LSE
+2024-01-22,"Management team visits investor roadshow in London",UK_CO,UK,LSE
+2024-01-23,"Credit rating downgraded from AAA to AA by agency",EU_CO,EU,EURONEXT
+2024-01-24,"Company wins S$500 million government infrastructure contract",SG_CO,Singapore,SGX
